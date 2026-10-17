@@ -1,0 +1,21 @@
+Is this a Human Brain ?
+
+Questions:
+
+Q1: What do we call the first layer of this neural network?
+Ans: The first layer of this neural network is known as the input layer.
+
+Q2: How many neurons can be there in the first layer of this neuron network?
+Ans: There can be n neurons in the first layer of this neural network.
+
+Q3: How many hidden layers are present in this neural network?
+Ans:There are 3 hidden layers present in this neural network.
+
+Q4: There can be any number of neurons in the hidden layer of this neural network.Is it True or False?
+Ans: True
+
+Q5: What do we call the last layer of this neural network?
+Ans: The last layer of this neural network is known as output layer.
+
+Q6: How many layers of neurons can be there in the last layer of this neural network?
+Ans: The last layer of this neural network contains 8 layers of nuerons.
